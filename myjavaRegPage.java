@@ -12,5 +12,11 @@ java day 6
 java day 7
 
 
+<<<<<<< Updated upstream
 completed
+=======
+
+
+new java line
+line 2
 
